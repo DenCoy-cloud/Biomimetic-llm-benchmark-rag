@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+
+# Data files — large CSVs not versioned
+*.csv
+checkpoint_*.csv
+results_rag_*.csv
+
+# ChromaDB / vector store
+chroma_db/
+*.sqlite3
+*.bin
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Zip outputs (uploaded to Zenodo separately)
+*.zip
+
+# Logs and outputs
+*.log
+analysis_rag_*.txt
+sensitivity_rag_*.txt
+anchor_depth_rag_*.txt
+*.json
+
+# Environment
+.env
+.env.*

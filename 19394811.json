@@ -1,0 +1,422 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2026-04-03T05:14:20.777803+00:00",
+  "custom_fields": {
+    "code:codeRepository": "https://github.com/DenCoy-cloud/Biomimetic-llm-benchmark-rag",
+    "code:developmentStatus": {
+      "id": "active",
+      "title": {
+        "en": "Active"
+      }
+    },
+    "code:programmingLanguage": [
+      {
+        "id": "python",
+        "title": {
+          "en": "Python"
+        }
+      }
+    ]
+  },
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 7,
+    "enabled": true,
+    "entries": {
+      "Data v4.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:009632af883b6d441759331e2734af81",
+        "ext": "zip",
+        "id": "74cdcf12-85df-4be0-a8be-8b6ce73fc469",
+        "key": "Data v4.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/Data%20v4.zip/content",
+          "self": "https://zenodo.org/api/records/19394811/files/Data%20v4.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 1136365,
+        "storage_class": "L"
+      },
+      "LICENSE.txt": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:0f896f306fab6cfbb3ea87e56b1a6823",
+        "ext": "txt",
+        "id": "492c5a77-bcac-4a98-8042-c14be63c0c4d",
+        "key": "LICENSE.txt",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/LICENSE.txt/content",
+          "self": "https://zenodo.org/api/records/19394811/files/LICENSE.txt"
+        },
+        "metadata": {},
+        "mimetype": "text/plain",
+        "size": 1832,
+        "storage_class": "L"
+      },
+      "RAG Does Not Fix What Prompting Cannot_Biomimetic Prompt Engineering on a Local PMSI Pipeline_v4_appendices.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3163f116e96020eff4f4d138aeeb4ed7",
+        "ext": "pdf",
+        "id": "0a2c2b58-42cc-4a15-bec4-6d176a846556",
+        "key": "RAG Does Not Fix What Prompting Cannot_Biomimetic Prompt Engineering on a Local PMSI Pipeline_v4_appendices.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:19394811/canvas/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/info.json",
+          "self": "https://zenodo.org/api/records/19394811/files/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 34021,
+        "storage_class": "L"
+      },
+      "RAG Does Not Fix What Prompting Cannot_Biomimetic Prompt Engineering on a Local PMSI Pipeline_v4_paper.pdf": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:3c3955b8e3231f6feca7686dc27331e5",
+        "ext": "pdf",
+        "id": "d7270459-186a-47fe-b099-c2620c3af48c",
+        "key": "RAG Does Not Fix What Prompting Cannot_Biomimetic Prompt Engineering on a Local PMSI Pipeline_v4_paper.pdf",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_paper.pdf/content",
+          "iiif_api": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_paper.pdf/full/full/0/default.png",
+          "iiif_base": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_paper.pdf",
+          "iiif_canvas": "https://zenodo.org/api/iiif/record:19394811/canvas/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_paper.pdf",
+          "iiif_info": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_paper.pdf/info.json",
+          "self": "https://zenodo.org/api/records/19394811/files/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_paper.pdf"
+        },
+        "metadata": {
+          "height": 842,
+          "width": 595
+        },
+        "mimetype": "application/pdf",
+        "size": 31435,
+        "storage_class": "L"
+      },
+      "README.md": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:8ebd4ceeb777c5974bac96823db51c80",
+        "ext": "md",
+        "id": "54887e27-37d8-499d-abf4-77dba6e86c6e",
+        "key": "README.md",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/README.md/content",
+          "self": "https://zenodo.org/api/records/19394811/files/README.md"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 8948,
+        "storage_class": "L"
+      },
+      "R\u00e9sultats v4.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2c52b08224c37097601b3844e75c868f",
+        "ext": "zip",
+        "id": "5d641747-0697-4ca3-a323-8ad475cbf430",
+        "key": "R\u00e9sultats v4.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/R%C3%A9sultats%20v4.zip/content",
+          "self": "https://zenodo.org/api/records/19394811/files/R%C3%A9sultats%20v4.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 6956,
+        "storage_class": "L"
+      },
+      "biomimetic_benchmark_v4.zip": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:cc51294d1b5a00cd37d06def4a2f5144",
+        "ext": "zip",
+        "id": "a632e9b6-a9cd-4b95-a895-bd07ec1ce7a8",
+        "key": "biomimetic_benchmark_v4.zip",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/biomimetic_benchmark_v4.zip/content",
+          "self": "https://zenodo.org/api/records/19394811/files/biomimetic_benchmark_v4.zip"
+        },
+        "metadata": {},
+        "mimetype": "application/zip",
+        "size": 50686937,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 51906494
+  },
+  "id": "19394811",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/19394811/access",
+    "access_grants": "https://zenodo.org/api/records/19394811/access/grants",
+    "access_links": "https://zenodo.org/api/records/19394811/access/links",
+    "access_request": "https://zenodo.org/api/records/19394811/access/request",
+    "access_users": "https://zenodo.org/api/records/19394811/access/users",
+    "archive": "https://zenodo.org/api/records/19394811/files-archive",
+    "archive_media": "https://zenodo.org/api/records/19394811/media-files-archive",
+    "communities": "https://zenodo.org/api/records/19394811/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/19394811/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.19394811",
+    "draft": "https://zenodo.org/api/records/19394811/draft",
+    "file_modification": "https://zenodo.org/api/records/19394811/file-modification",
+    "files": "https://zenodo.org/api/records/19394811/files",
+    "latest": "https://zenodo.org/api/records/19394811/versions/latest",
+    "latest_html": "https://zenodo.org/records/19394811/latest",
+    "media_files": "https://zenodo.org/api/records/19394811/media-files",
+    "parent": "https://zenodo.org/api/records/19394810",
+    "parent_doi": "https://doi.org/10.5281/zenodo.19394810",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19394810",
+    "parent_html": "https://zenodo.org/records/19394810",
+    "preview_html": "https://zenodo.org/records/19394811?preview=1",
+    "request_deletion": "https://zenodo.org/api/records/19394811/request-deletion",
+    "requests": "https://zenodo.org/api/records/19394811/requests",
+    "reserve_doi": "https://zenodo.org/api/records/19394811/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/19394811",
+    "self_doi": "https://doi.org/10.5281/zenodo.19394811",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.19394811",
+    "self_html": "https://zenodo.org/records/19394811",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:19394811/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:19394811/sequence/default",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/full/%5E10,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/full/%5E100,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/full/%5E1200,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/full/%5E250,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/full/%5E50,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:19394811:RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf/full/%5E750,/0/default.jpg"
+    },
+    "versions": "https://zenodo.org/api/records/19394811/versions"
+  },
+  "media_files": {
+    "count": 2,
+    "enabled": true,
+    "entries": {
+      "RAG Does Not Fix What Prompting Cannot_Biomimetic Prompt Engineering on a Local PMSI Pipeline_v4_appendices.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "6202718c-4ad6-49dc-9392-69054fd072b7",
+        "key": "RAG Does Not Fix What Prompting Cannot_Biomimetic Prompt Engineering on a Local PMSI Pipeline_v4_appendices.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/19394811/files/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_appendices.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "0a2c2b58-42cc-4a15-bec4-6d176a846556",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      },
+      "RAG Does Not Fix What Prompting Cannot_Biomimetic Prompt Engineering on a Local PMSI Pipeline_v4_paper.pdf.ptif": {
+        "access": {
+          "hidden": true
+        },
+        "ext": "ptif",
+        "id": "6e463849-6684-44fb-9021-ca1e620b267f",
+        "key": "RAG Does Not Fix What Prompting Cannot_Biomimetic Prompt Engineering on a Local PMSI Pipeline_v4_paper.pdf.ptif",
+        "links": {
+          "content": "https://zenodo.org/api/records/19394811/files/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_paper.pdf.ptif/content",
+          "self": "https://zenodo.org/api/records/19394811/files/RAG%20Does%20Not%20Fix%20What%20Prompting%20Cannot_Biomimetic%20Prompt%20Engineering%20on%20a%20Local%20PMSI%20Pipeline_v4_paper.pdf.ptif"
+        },
+        "metadata": null,
+        "mimetype": "application/octet-stream",
+        "processor": {
+          "source_file_id": "d7270459-186a-47fe-b099-c2620c3af48c",
+          "status": "finished",
+          "type": "image-tiles"
+        },
+        "size": 0,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "person_or_org": {
+          "family_name": "COYAUD",
+          "given_name": "Denis",
+          "name": "COYAUD, Denis",
+          "type": "personal"
+        },
+        "role": {
+          "id": "researcher",
+          "title": {
+            "de": "WissenschaftlerIn",
+            "en": "Researcher"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2026-04-03",
+        "description": "This paper evaluates whether a local RAG pipeline on a specialized PMSI medical coding corpus changes the behavioral picture established in v2 and v3: that biomimetic prompt engineering produces no meaningful effect on local 8B-14B models. Six models from three families (Qwen3, Ministral 3, DeepSeek-R1, each in 8B and 14B variants) are evaluated across 5 configurations and 100 domain-specific questions designed by a TIM senior with 15 years of PMSI coding experience, covering four behavioral ground truth dimensions. Main result: baseline_vanilla dominates all biomimetic configurations on QUAL composite (0.375 vs 0.329-0.345) across all 6 models without exception. GT_Hallucination collapses from 0.510-0.873 (v2/v3 without RAG) to 0.140-0.247 (v4 with RAG), confirming that retrieval context does not correct hallucination behavior and amplifies it through document contamination. The 8B to 14B size increase produces no meaningful quality gain. 5 key numbers: 3,000 tests \u2014 6 models \u2014 5 configurations \u2014 QUAL delta vanilla vs best biomimetic = -0.030 \u2014 GT_Hallucination floor = 0.140.",
+        "type": {
+          "id": "created",
+          "title": {
+            "de": "Erstellt",
+            "en": "Created"
+          }
+        }
+      }
+    ],
+    "description": "<p>This paper evaluates whether a local RAG pipeline on a specialized PMSI medical coding corpus changes the behavioral picture established in v2 and v3: that biomimetic prompt engineering produces no meaningful effect on local 8B-14B models. Six models from three families (Qwen3, Ministral 3, DeepSeek-R1, each in 8B and 14B variants) are evaluated across 5 configurations and 100 domain-specific questions designed by a TIM senior with 15 years of PMSI coding experience, covering four behavioral ground truth dimensions. Main result: baseline_vanilla dominates all biomimetic configurations on QUAL composite (0.375 vs 0.329-0.345) across all 6 models without exception. GT_Hallucination collapses from 0.510-0.873 (v2/v3 without RAG) to 0.140-0.247 (v4 with RAG), confirming that retrieval context does not correct hallucination behavior and amplifies it through document contamination. The 8B to 14B size increase produces no meaningful quality gain. 5 key numbers: 3,000 tests &mdash; 6 models &mdash; 5 configurations &mdash; QUAL delta vanilla vs best biomimetic = -0.030 &mdash; GT_Hallucination floor = 0.140.</p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2026-04-03",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "software",
+      "title": {
+        "de": "Software",
+        "en": "Software"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": ""
+        },
+        "icon": "cc-by-nc-sa-icon",
+        "id": "cc-by-nc-sa-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "RAG"
+      },
+      {
+        "subject": "prompt engineering"
+      },
+      {
+        "subject": "biomimicry"
+      },
+      {
+        "subject": "LLM behavior"
+      },
+      {
+        "subject": "local models"
+      },
+      {
+        "subject": "PMSI"
+      },
+      {
+        "subject": "medical coding"
+      },
+      {
+        "subject": "biomimetic prompt engineering"
+      }
+    ],
+    "title": "RAG Does Not Fix What Prompting Cannot: Biomimetic Prompt Engineering on a Local PMSI Pipeline",
+    "version": "1.0.0"
+  },
+  "parent": {
+    "access": {
+      "grants": [],
+      "links": [],
+      "owned_by": {
+        "user": "1582264"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "19394810",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.19394810",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.19394811",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:19394811",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    },
+    "this_version": {
+      "data_volume": 0.0,
+      "downloads": 0,
+      "unique_downloads": 0,
+      "unique_views": 0,
+      "views": 0
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2026-04-03T05:14:21.412971+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true,
+    "is_latest_draft": true
+  }
+}
